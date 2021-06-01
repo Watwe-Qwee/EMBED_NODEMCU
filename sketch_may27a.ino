@@ -3,8 +3,8 @@
 #include <SoftwareSerial.h>
 #define LED 16
 
-const char* ssid     = "True-2.4G"; // WIFI
-const char* password = "9980925822"; // PASSWORD
+const char* ssid     = ""; // WIFI
+const char* password = ""; // PASSWORD
 const char* mqtt_server = "broker.netpie.io";
 const int mqtt_port = 1883;
 const char* mqtt_Client = "f400cbf1-a9d2-48ac-87c7-d55cde31ad7e"; // CLIENT ID
